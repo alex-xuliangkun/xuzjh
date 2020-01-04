@@ -1,0 +1,6 @@
+framework module xuzjh {
+  umbrella header "xuzjh-umbrella.h"
+
+  export *
+  module * { export * }
+}

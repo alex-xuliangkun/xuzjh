@@ -1,0 +1,16 @@
+PODS:
+  - xuzjh (0.1.0)
+
+DEPENDENCIES:
+  - xuzjh (from `../`)
+
+EXTERNAL SOURCES:
+  xuzjh:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  xuzjh: 4adf4fcc107914bfe3067f4dc8fa3325385aa4d1
+
+PODFILE CHECKSUM: 757958a394248dc1b4500a17c8b610f6ec3857f7
+
+COCOAPODS: 1.6.1
