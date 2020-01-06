@@ -1,9 +1,9 @@
 {
   "name": "xuzjh",
   "version": "0.1.0",
-  "summary": "A short description of xuzjh.",
+  "summary": "项目组件化",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/451764908@qq.com/xuzjh",
+  "homepage": "https://github.com/alex-xuliangkun/xuzjh",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "451764908@qq.com": "451764908@qq.com"
   },
   "source": {
-    "git": "https://github.com/451764908@qq.com/xuzjh.git",
+    "git": "https://github.com/alex-xuliangkun/xuzjh.git",
     "tag": "0.1.0"
   },
   "platforms": {

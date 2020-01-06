@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "BaseVC.h"
 #import "ZJHUtils.h"
 
 FOUNDATION_EXPORT double xuzjhVersionNumber;
